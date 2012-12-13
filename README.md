@@ -11,10 +11,6 @@ Fork of https://github.com/CpuID/pve2-api-php-client
 * Change a node template
 * Reinstall a node
 
-    require("./pve2-api-php-client/pve2_api.class.php");
-
-    $pve2 = new PVE2_API("hostname", "username", "realm", "password");
-
 ## Usage: ##
 
 ## License: ##
